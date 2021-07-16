@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1626442024",layout:"default",error:a,serverRendered:true,routePath:"\u002Fcours\u002Fpremiere\u002Fgeometrie-reperee",config:{_app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"446aa6b9"}}}}(null));
