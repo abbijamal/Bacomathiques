@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1629221829",layout:"default",error:a,serverRendered:true,routePath:"\u002Fcours\u002Fterminale\u002Fnombres-complexes\u002Fresume",config:{_app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"08513f60"}}}}(null));
