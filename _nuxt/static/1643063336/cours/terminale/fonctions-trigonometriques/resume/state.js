@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1643063336",layout:"default",error:a,serverRendered:true,routePath:"\u002Fcours\u002Fterminale\u002Ffonctions-trigonometriques\u002Fresume",config:{_app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"0e4bb0ae"}}}}(null));
