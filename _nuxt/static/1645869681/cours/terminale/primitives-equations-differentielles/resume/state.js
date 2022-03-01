@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1645869681",layout:"default",error:a,serverRendered:true,routePath:"\u002Fcours\u002Fterminale\u002Fprimitives-equations-differentielles\u002Fresume",config:{_app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"bc5e5deb"}}}}(null));
