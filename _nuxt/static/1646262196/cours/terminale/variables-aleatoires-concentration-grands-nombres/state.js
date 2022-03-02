@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1646262196",layout:"default",error:a,serverRendered:true,routePath:"\u002Fcours\u002Fterminale\u002Fvariables-aleatoires-concentration-grands-nombres",config:{_app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"8002efb3"}}}}(null));
