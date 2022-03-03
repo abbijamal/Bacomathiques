@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1646322492",layout:"default",error:a,serverRendered:true,routePath:"\u002Fcours\u002Fterminale\u002Fcalcul-integral",config:{_app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"2810de8c"}}}}(null));
